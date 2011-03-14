@@ -1,0 +1,308 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VinsolImageProjectAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 260}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{0, 407}";
+		};
+	};
+	1D3623250D0F684500981E51 /* VinsolImageProjectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{393, 0}";
+			sepNavVisRange = "{0, 1162}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* VinsolImageProject */ = {
+		activeExec = 0;
+		executables = (
+			DD5D15FE131E68D300146EBA /* VinsolImageProject */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DD5D15FE131E68D300146EBA /* VinsolImageProject */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VinsolImageProject */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* VinsolImageProject */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = DD5D1607131E68F200146EBA /* Code sense */;
+		executables = (
+			DD5D15FE131E68D300146EBA /* VinsolImageProject */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321775710;
+			PBXWorkspaceStateSaveDate = 321775710;
+		};
+		perUserProjectItems = {
+			DD5D163E131E6A2600146EBA /* PBXTextBookmark */ = DD5D163E131E6A2600146EBA /* PBXTextBookmark */;
+			DD5D163F131E6A2600146EBA /* PBXTextBookmark */ = DD5D163F131E6A2600146EBA /* PBXTextBookmark */;
+			DDA3B570132DE7CB00E54C86 /* PBXTextBookmark */ = DDA3B570132DE7CB00E54C86 /* PBXTextBookmark */;
+			DDA3B580132DE81B00E54C86 /* PBXTextBookmark */ = DDA3B580132DE81B00E54C86 /* PBXTextBookmark */;
+			DDA3B581132DE81B00E54C86 /* PBXTextBookmark */ = DDA3B581132DE81B00E54C86 /* PBXTextBookmark */;
+			DDA3B594132DE83E00E54C86 /* PBXTextBookmark */ = DDA3B594132DE83E00E54C86 /* PBXTextBookmark */;
+			DDA3B5AD132DE87C00E54C86 /* PBXTextBookmark */ = DDA3B5AD132DE87C00E54C86 /* PBXTextBookmark */;
+			DDAA9071132A01C000C250F9 /* PBXTextBookmark */ = DDAA9071132A01C000C250F9 /* PBXTextBookmark */;
+			DDAA913B132A14E600C250F9 /* PBXTextBookmark */ = DDAA913B132A14E600C250F9 /* PBXTextBookmark */;
+			DDAA913D132A14E600C250F9 /* PBXTextBookmark */ = DDAA913D132A14E600C250F9 /* PBXTextBookmark */;
+			DDD1E80D132D554400D12005 /* PBXTextBookmark */ = DDD1E80D132D554400D12005 /* PBXTextBookmark */;
+			DDDDC526132BF98B001D69D7 /* PBXTextBookmark */ = DDDDC526132BF98B001D69D7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DD5D1606131E68F200146EBA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 503}}";
+			sepNavSelRange = "{361, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	DD5D15FE131E68D300146EBA /* VinsolImageProject */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VinsolImageProject;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DD5D1606131E68F200146EBA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DD5D1607131E68F200146EBA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DD5D1609131E68F900146EBA /* ImageEditViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1776, 520}}";
+			sepNavSelRange = "{1041, 0}";
+			sepNavVisRange = "{33, 1237}";
+		};
+	};
+	DD5D160A131E68F900146EBA /* ImageEditViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 5239}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{0, 969}";
+		};
+	};
+	DD5D1610131E690A00146EBA /* MyAnnotation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 780}}";
+			sepNavSelRange = "{576, 0}";
+			sepNavVisRange = "{0, 787}";
+		};
+	};
+	DD5D1617131E691700146EBA /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {488, 325}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{201, 496}";
+		};
+	};
+	DD5D1618131E691700146EBA /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1664}}";
+			sepNavSelRange = "{1126, 0}";
+			sepNavVisRange = "{181, 1090}";
+		};
+	};
+	DD5D1620131E69A500146EBA /* ModalHUD.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1105}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 874}";
+		};
+	};
+	DD5D163E131E6A2600146EBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VinsolImageProjectAppDelegate.h */;
+		name = "VinsolImageProjectAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	DD5D163F131E6A2600146EBA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 17";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	DDA3B570132DE7CB00E54C86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D160A131E68F900146EBA /* ImageEditViewController.m */;
+		name = "ImageEditViewController.m: 10";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 0;
+	};
+	DDA3B580132DE81B00E54C86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1617131E691700146EBA /* MapViewController.h */;
+		name = "MapViewController.h: 17";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 0;
+	};
+	DDA3B581132DE81B00E54C86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1620131E69A500146EBA /* ModalHUD.m */;
+		name = "ModalHUD.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 874;
+		vrLoc = 0;
+	};
+	DDA3B594132DE83E00E54C86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1610131E690A00146EBA /* MyAnnotation.m */;
+		name = "MyAnnotation.m: 27";
+		rLen = 0;
+		rLoc = 602;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	DDA3B5AD132DE87C00E54C86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1610131E690A00146EBA /* MyAnnotation.m */;
+		name = "MyAnnotation.m: 27";
+		rLen = 0;
+		rLoc = 576;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	DDAA9071132A01C000C250F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* VinsolImageProjectAppDelegate.m */;
+		name = "VinsolImageProjectAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 1162;
+		vrLoc = 0;
+	};
+	DDAA913B132A14E600C250F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDAA913C132A14E600C250F9 /* CLLocationManagerDelegate.h */;
+		name = "CLLocationManagerDelegate.h: 35";
+		rLen = 53;
+		rLoc = 639;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 1881;
+	};
+	DDAA913C132A14E600C250F9 /* CLLocationManagerDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManagerDelegate.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h;
+		sourceTree = "<absolute>";
+	};
+	DDAA913D132A14E600C250F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDAA913E132A14E600C250F9 /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 59";
+		rLen = 40;
+		rLoc = 1796;
+		rType = 0;
+		vrLen = 1283;
+		vrLoc = 1093;
+	};
+	DDAA913E132A14E600C250F9 /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	DDD1E80D132D554400D12005 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1609131E68F900146EBA /* ImageEditViewController.h */;
+		name = "ImageEditViewController.h: 32";
+		rLen = 0;
+		rLoc = 1041;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 33;
+	};
+	DDDDC526132BF98B001D69D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD5D1618131E691700146EBA /* MapViewController.m */;
+		name = "MapViewController.m: 40";
+		rLen = 0;
+		rLoc = 1126;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 181;
+	};
+}
